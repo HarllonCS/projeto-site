@@ -1,2 +1,2 @@
 # projeto-site
- Inicinado em Git e Github
+ Iniciando em Git e Github
